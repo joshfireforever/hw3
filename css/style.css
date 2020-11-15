@@ -1,0 +1,87 @@
+body {
+  background-image: url("background.png");
+  background-repeat: repeat;
+  background-color: transparent;
+  background-size: 20%;
+  line-height: 1.5em;
+  font-family: 'Charm';
+  width: 100%;
+  align-content: center;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Tangerine', cursive;
+  font-size: 450%;
+  color: #C4782C;
+}
+
+#flourish {
+  height: 20px;
+  text-align: center;
+}
+
+#lookupForm {
+  width: 400px;
+  height: auto;
+  margin: 0 auto;
+  position: relative;
+  align-content: center;
+  color: white;
+}
+
+#fields {
+  width: 100%;
+}
+
+#input {
+  border: 1px solid #C4782C;
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+  align-content: center;
+  background-color: transparent;
+  color: #C4782C;
+}
+
+#button {
+  text-align: center;
+  padding: 15px;
+}
+
+#search {
+  font-size: 1em;
+  color: #C4782C;
+  border: 1px solid #C4782C;
+  
+}
+
+#resultsCharTitle, #resultsQuoteTitle{
+  font-family: 'Charm';
+  text-align: center;
+  font-size: 2em;
+  color: #C4782C;
+}
+
+#resultsChar, #resultsQuote {
+  font-family: 'Times New Roman';
+  text-align: left;
+  color: white;
+}
+
+#image {
+    text-align: center;
+}
+
+#characterImg {
+    border: 3px solid #575757;
+}
+
+hr {
+  border: 1px solid gray; 
+}
+
+footer {
+  color: #7d7d7d;
+  text-align: center;
+}
